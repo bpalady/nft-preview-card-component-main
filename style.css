@@ -43,8 +43,8 @@ div .icon-view {
 .content-pic div {
   position: absolute;
   background-color: hsl(178, 100%, 50%);
-  width: 100%;
-  height: 100%;
+  width: 350px;
+  height: 350px;
   top: 0;
   border-radius: 10px;
   z-index: 999;
